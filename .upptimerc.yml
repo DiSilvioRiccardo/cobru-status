@@ -18,7 +18,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /
   logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
-  name: Cobru Status
+  name: 
   introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru"
   introMessage:
   navbar:
