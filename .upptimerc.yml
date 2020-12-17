@@ -6,7 +6,7 @@ repo: cobru-status # Your Github repository name
 sites:
   - name: Prod Cobru
     url: https://prod.cobru.co
-  - name: Wikipedia
+  - name: Dev Cobru
     url: https://dev.cobru.co
     
 status-website:
