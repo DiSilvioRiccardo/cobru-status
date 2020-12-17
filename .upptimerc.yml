@@ -13,7 +13,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: 
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /cobru-status
+  baseUrl: /
   logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
   name: Cobru Status
   introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru"
