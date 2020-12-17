@@ -8,7 +8,10 @@ sites:
     url: https://prod.cobru.co
   - name: Dev Cobru
     url: https://dev.cobru.co
-    
+  - name: Cobru Panel
+    url: https://panel.cobru.co
+  - name: Cobru Panel Dev
+    url: https://dev.panel.cobru.co
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: 
