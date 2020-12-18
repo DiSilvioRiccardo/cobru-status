@@ -14,7 +14,7 @@ sites:
     url: https://dev.panel.cobru.co
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: 
+  # cname: 
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /
   logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
