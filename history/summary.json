@@ -4,10 +4,10 @@
     "url": "https://prod.cobru.co",
     "icon": "https://favicons.githubusercontent.com/prod.cobru.co",
     "slug": "prod-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 1312,
@@ -16,6 +16,7 @@
     "timeMonth": 1312,
     "timeYear": 1312,
     "dailyMinutesDown": {
+      "2021-01-07": 2,
       "2020-12-26": 29
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://dev.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.cobru.co",
     "slug": "dev-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1002,
@@ -35,7 +36,9 @@
     "timeWeek": 1038,
     "timeMonth": 1002,
     "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 1
+    }
   },
   {
     "name": "Cobru Panel",
@@ -43,11 +46,11 @@
     "icon": "https://favicons.githubusercontent.com/panel.cobru.co",
     "slug": "cobru-panel",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 228,
     "timeDay": 167,
     "timeWeek": 198,
@@ -62,9 +65,9 @@
     "url": "https://dev.panel.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.panel.cobru.co",
     "slug": "cobru-panel-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +76,8 @@
     "timeWeek": 179,
     "timeMonth": 220,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   }
 ]
