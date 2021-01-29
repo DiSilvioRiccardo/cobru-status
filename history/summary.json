@@ -4,18 +4,20 @@
     "url": "https://prod.cobru.co",
     "icon": "https://favicons.githubusercontent.com/prod.cobru.co",
     "slug": "prod-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1231,
-    "timeDay": 1578,
+    "timeDay": 0,
     "timeWeek": 1167,
     "timeMonth": 1132,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 0
+    }
   },
   {
     "name": "Dev Cobru",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 981,
-    "timeDay": 1253,
-    "timeWeek": 1225,
-    "timeMonth": 961,
-    "timeYear": 981,
+    "time": 987,
+    "timeDay": 1306,
+    "timeWeek": 1235,
+    "timeMonth": 971,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2021-01-07": 27
     }
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 192,
+    "timeDay": 234,
     "timeWeek": 236,
-    "timeMonth": 206,
+    "timeMonth": 207,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -67,8 +69,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 216,
-    "timeDay": 171,
-    "timeWeek": 258,
+    "timeDay": 192,
+    "timeWeek": 250,
     "timeMonth": 202,
     "timeYear": 216,
     "dailyMinutesDown": {
