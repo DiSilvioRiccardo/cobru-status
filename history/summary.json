@@ -4,10 +4,10 @@
     "url": "https://prod.cobru.co",
     "icon": "https://favicons.githubusercontent.com/prod.cobru.co",
     "slug": "prod-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1428,
@@ -15,16 +15,18 @@
     "timeWeek": 1015,
     "timeMonth": 1898,
     "timeYear": 1428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 1
+    }
   },
   {
     "name": "Dev Cobru",
     "url": "https://dev.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.cobru.co",
     "slug": "dev-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 799,
     "timeMonth": 831,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   },
   {
     "name": "Cobru Panel",
