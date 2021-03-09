@@ -1,7 +1,7 @@
 url: https://panel.cobru.co
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2021-03-08T23:04:18.282Z
+status: down
+code: 502
+responseTime: 153
+lastUpdated: 2021-03-09T19:14:45.279Z
 startTime: Thu Dec 17 2020 19:30:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
