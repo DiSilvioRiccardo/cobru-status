@@ -12,6 +12,8 @@ sites:
     url: https://panel.cobru.co
   - name: Cobru Panel Dev
     url: https://dev.panel.cobru.co
+  - name: Descarga de Cobru
+    url: https://cobru.co/descargar
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: 
@@ -19,7 +21,7 @@ status-website:
   baseUrl: /
   logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
   name: ""
-  introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru (disponible en https://cobru.co/descargar)"
+  introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru"
   introMessage:
   navbar:
     - title: Status
