@@ -19,7 +19,7 @@ status-website:
   baseUrl: /
   logoUrl: https://www.cobru.co/wp-content/uploads/h-logo-cobru.png
   name: ""
-  introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru"
+  introTitle: "Cobru status te muestra la disponibilidad de los servidores de Cobru (descargar en https://cobru.co/descargar)"
   introMessage:
   navbar:
     - title: Status
