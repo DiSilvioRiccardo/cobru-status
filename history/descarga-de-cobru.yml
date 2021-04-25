@@ -1,7 +1,7 @@
 url: https://cobru.co/descargar
-status: up
-code: 200
-responseTime: 1254
-lastUpdated: 2021-04-24T23:01:50.866Z
+status: down
+code: 500
+responseTime: 5
+lastUpdated: 2021-04-25T09:33:11.697Z
 startTime: Mon Apr 19 2021 22:11:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
