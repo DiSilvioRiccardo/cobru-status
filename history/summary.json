@@ -4,7 +4,7 @@
     "url": "https://prod.cobru.co",
     "icon": "https://favicons.githubusercontent.com/prod.cobru.co",
     "slug": "prod-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1529,
     "timeDay": 1947,
     "timeWeek": 1889,
-    "timeMonth": 1720,
+    "timeMonth": 1704,
     "timeYear": 1529,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://dev.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.cobru.co",
     "slug": "dev-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1069,
     "timeDay": 1617,
     "timeWeek": 1376,
-    "timeMonth": 1161,
+    "timeMonth": 1162,
     "timeYear": 1069,
     "dailyMinutesDown": {}
   },
@@ -79,7 +79,7 @@
     "url": "https://cobru.co/descargar",
     "icon": "https://favicons.githubusercontent.com/cobru.co",
     "slug": "descarga-de-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -88,7 +88,7 @@
     "time": 1185,
     "timeDay": 1937,
     "timeWeek": 1413,
-    "timeMonth": 1199,
+    "timeMonth": 1201,
     "timeYear": 1185,
     "dailyMinutesDown": {}
   }
