@@ -13,7 +13,7 @@
     "time": 1543,
     "timeDay": 1910,
     "timeWeek": 1591,
-    "timeMonth": 1784,
+    "timeMonth": 1775,
     "timeYear": 1543,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://dev.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.cobru.co",
     "slug": "dev-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
