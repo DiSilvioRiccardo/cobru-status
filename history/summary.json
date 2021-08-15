@@ -13,7 +13,7 @@
     "time": 1654,
     "timeDay": 1490,
     "timeWeek": 3013,
-    "timeMonth": 2104,
+    "timeMonth": 2124,
     "timeYear": 1654,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://panel.cobru.co",
     "icon": "https://favicons.githubusercontent.com/panel.cobru.co",
     "slug": "cobru-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
