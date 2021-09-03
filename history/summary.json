@@ -79,17 +79,17 @@
     "url": "https://cobru.co/descargar",
     "icon": "https://favicons.githubusercontent.com/cobru.co",
     "slug": "descarga-de-cobru",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1369,
-    "timeWeek": 1409,
-    "timeMonth": 1301,
-    "timeYear": 1231,
+    "time": 1273,
+    "timeDay": 4824,
+    "timeWeek": 1982,
+    "timeMonth": 1485,
+    "timeYear": 1273,
     "dailyMinutesDown": {}
   }
 ]
