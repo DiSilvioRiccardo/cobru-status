@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2121,
-    "timeDay": 1667,
-    "timeWeek": 4429,
-    "timeMonth": 2987,
-    "timeYear": 2220,
+    "time": 2120,
+    "timeDay": 1251,
+    "timeWeek": 6139,
+    "timeMonth": 2980,
+    "timeYear": 2224,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1327,
-    "timeDay": 1278,
-    "timeWeek": 1241,
-    "timeMonth": 1156,
-    "timeYear": 1390,
+    "time": 1326,
+    "timeDay": 1176,
+    "timeWeek": 1205,
+    "timeMonth": 1152,
+    "timeYear": 1394,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 243,
-    "timeWeek": 179,
-    "timeMonth": 157,
-    "timeYear": 481,
+    "time": 441,
+    "timeDay": 161,
+    "timeWeek": 170,
+    "timeMonth": 156,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -65,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 248,
-    "timeWeek": 165,
-    "timeMonth": 164,
+    "timeDay": 112,
+    "timeWeek": 147,
+    "timeMonth": 159,
     "timeYear": 457,
-    "dailyMinutesDown": {
-      "2021-02-15": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Descarga de Cobru",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1295,
-    "timeDay": 1420,
-    "timeWeek": 1363,
-    "timeMonth": 1258,
+    "timeDay": 1241,
+    "timeWeek": 1312,
+    "timeMonth": 1257,
     "timeYear": 1295,
     "dailyMinutesDown": {}
   }
