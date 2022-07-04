@@ -14,7 +14,7 @@
     "timeDay": 2620,
     "timeWeek": 2900,
     "timeMonth": 3512,
-    "timeYear": 2720,
+    "timeYear": 2724,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://dev.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.cobru.co",
     "slug": "dev-cobru",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1634,
-    "timeDay": 1176,
-    "timeWeek": 1915,
-    "timeMonth": 2816,
-    "timeYear": 1763,
+    "time": 1635,
+    "timeDay": 1529,
+    "timeWeek": 1912,
+    "timeMonth": 2789,
+    "timeYear": 1766,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 1193,
     "timeWeek": 1865,
     "timeMonth": 1764,
-    "timeYear": 1482,
+    "timeYear": 1483,
     "dailyMinutesDown": {}
   }
 ]
