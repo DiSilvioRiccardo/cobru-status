@@ -4,7 +4,7 @@
     "url": "https://prod.cobru.co",
     "icon": "https://favicons.githubusercontent.com/prod.cobru.co",
     "slug": "prod-cobru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2968,
     "timeDay": 2228,
-    "timeWeek": 4823,
+    "timeWeek": 4834,
     "timeMonth": 3882,
     "timeYear": 2986,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1963,
     "timeDay": 1453,
-    "timeWeek": 2514,
+    "timeWeek": 2231,
     "timeMonth": 1892,
     "timeYear": 1922,
     "dailyMinutesDown": {}
