@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2859,
     "timeDay": 3158,
-    "timeWeek": 4171,
+    "timeWeek": 4358,
     "timeMonth": 3076,
     "timeYear": 3065,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://dev.panel.cobru.co",
     "icon": "https://favicons.githubusercontent.com/dev.panel.cobru.co",
     "slug": "cobru-panel-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 167,
-    "timeWeek": 200,
+    "timeWeek": 201,
     "timeMonth": 223,
     "timeYear": 355,
     "dailyMinutesDown": {}
